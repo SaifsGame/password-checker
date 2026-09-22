@@ -20,8 +20,8 @@ A robust and lightweight tool designed to evaluate password strength, check for 
 
 ## 🛠️ Tech Stack
 
-* **Language:** C++*
-* **Libraries/Frameworks:** C-Strings, cctype*
+* **Language:** *C++*
+* **Libraries/Frameworks:** *C-Strings, cctype*
 
 ---
 
