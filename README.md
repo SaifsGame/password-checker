@@ -20,8 +20,8 @@ A robust and lightweight tool designed to evaluate password strength, check for 
 
 ## 🛠️ Tech Stack
 
-* **Language:** Python / JavaScript *(update depending on your project stack)*
-* **Libraries/Frameworks:** *(List any core dependencies, e.g., React, Express, Flask, etc.)*
+* **Language:** C++*
+* **Libraries/Frameworks:** C-Strings, cctype*
 
 ---
 
